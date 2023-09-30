@@ -7,6 +7,7 @@
 4. Emitir um alerta por email.
 
 ## Prototipação Inicial
+
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/271eafb5-99f0-4d4b-b8b7-884b8808b00e)
 
 ## Tela inicial
