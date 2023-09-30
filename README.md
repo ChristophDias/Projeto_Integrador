@@ -35,10 +35,10 @@ Janela do aletar da medicação.
 
 ## Requisitos funcionais:
 
-1. Agendar lembretes de horários de medicaçõe
-2. Emitir um alerta na hora de tomar a medicação.
-3. Emitir um alerta por email. 
-4. Usabilidade: A interface deve ser intuitiva e fácil de usar, especialmente para iniciantes.
+1. Agendar lembretes de horários de medicaçõe ✔️ (finalizado)
+2. Emitir um alerta na hora de tomar a medicação e a dosagem. ✔️(finalizado)
+3. 3. Emitir um alerta por email. 🛠️ (em construção)
+4. Usabilidade: A interface deve ser intuitiva e fácil de usar, especialmente para iniciantes. ✔️ (finalizado)
  
 ## Requisitos Não Funcionais
 
