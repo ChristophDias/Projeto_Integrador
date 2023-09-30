@@ -31,12 +31,14 @@ Janela do aletar da medicação.
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/c98b70db-df6a-4da3-a5f2-b4ce8fa175f9)
 
 ## Requisitos funcionais:
+
 1. Agendar lembretes de horários de medicaçõe
 2. Emitir um alerta na hora de tomar a medicação.
 3. Emitir um alerta por email. 
 4. Usabilidade: A interface deve ser intuitiva e fácil de usar, especialmente para iniciantes.
  
 ## Requisitos Não Funcionais
+
 1. Performance: A aplicação deve ser responsiva, minimizando a latência durante a execução do código.
 2. Escalabilidade: A aplicação deve suportar um aumento no número de usuários sem comprometer a qualidade.
 3. Segurança: Garantir a segurança dos dados dos usuários e evitar vulnerabilidades.
