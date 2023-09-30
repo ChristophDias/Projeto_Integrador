@@ -10,6 +10,7 @@ Emitir um alerta no horário definido, apresentando o nome do paciente, medicaç
 Emitir um alerta por email.
 
 ## Prototipação Inicial
+
 Tela inicial
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/a5dd70b4-787e-402d-bd80-346065966af9)
 
