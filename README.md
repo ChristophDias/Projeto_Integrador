@@ -60,8 +60,10 @@ Janela do aletar da medicação.
 2. Publicar o repositório no github.
 
 ## Como contribuir?
+
 Esse projeto está aberto para contribuições, faça um fork no repositório e abra seu PR. Entre em contato
 pelo e-mail christophpereiradias@gmail.com
 
 ## Licença
+
 Este projeto está sob a licença CopyLeft.
