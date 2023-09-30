@@ -16,7 +16,6 @@ Emitir um alerta por email.
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/a5dd70b4-787e-402d-bd80-346065966af9)
 
 ## Confirmação de Agendamento
-
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/ed7b5916-3027-4f0e-a778-1ccf71ca3d2a)
 
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/53bb1511-69a8-4125-8834-335ee6e6e63c)
