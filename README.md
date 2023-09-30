@@ -14,6 +14,8 @@ Emitir um alerta por email.
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/a5dd70b4-787e-402d-bd80-346065966af9)
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/fd0e9578-301c-4aca-9762-c366d5dcb007)
 
+![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/c98b70db-df6a-4da3-a5f2-b4ce8fa175f9)
+
 # Acompanhamento de utilização:
 Acompanhamento da rotina diária da medicação exigindo a confirmação de uso do medicamento
 
