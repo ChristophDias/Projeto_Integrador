@@ -37,7 +37,7 @@ Janela do aletar da medicação.
 
 1. Agendar lembretes de horários de medicaçõe ✔️ (finalizado)
 2. Emitir um alerta na hora de tomar a medicação e a dosagem. ✔️(finalizado)
-3. 3. Emitir um alerta por email. 🛠️ (em construção)
+3. Emitir um alerta por email. 🛠️ (em construção)
 4. Usabilidade: A interface deve ser intuitiva e fácil de usar, especialmente para iniciantes. ✔️ (finalizado)
  
 ## Requisitos Não Funcionais
@@ -46,3 +46,15 @@ Janela do aletar da medicação.
 2. Escalabilidade: A aplicação deve suportar um aumento no número de usuários sem comprometer a qualidade.
 3. Segurança: Garantir a segurança dos dados dos usuários e evitar vulnerabilidades.
 4. Compatibilidade: Funcionar em diversos navegadores e sistemas operacionais.
+
+## Como rodar a aplicação
+
+1. Baixe a IDE do python.
+2. Baixe o Thonny.
+3. Clone este repositório para o seu ambiente local.
+4. Abra o Thonny e navegue até o diretório do projeto.
+5. E execute o programa atual ou aperte F5 para executar.
+
+## Trabalhos Futuros
+1. Emitir um alerta por email. 🛠️ (em construção)
+2. Publicar o repositório no github.
