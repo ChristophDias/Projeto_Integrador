@@ -20,12 +20,12 @@ Essa é a tela de comfirmação de agendamento.
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/ed7b5916-3027-4f0e-a778-1ccf71ca3d2a)
 
 ## Agendamento
-
 Abaixo do botão Adicionar Registro aparece o agendamento.
-
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/53bb1511-69a8-4125-8834-335ee6e6e63c)
 
 ## Alerta
+Janela do aletar da medicação.
+
 ![image](https://github.com/ChristophDias/Projeto_Integrador/assets/142109049/c98b70db-df6a-4da3-a5f2-b4ce8fa175f9)
 
 ## Acompanhamento de utilização:
