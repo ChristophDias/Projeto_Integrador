@@ -58,6 +58,7 @@ Janela do aletar da medicação.
 ## Trabalhos Futuros
 1. Emitir um alerta por email. 🛠️ (em construção)
 2. Publicar o repositório no github.
+3. Aprimorar a interface gráfica.
 
 ## Como contribuir?
 
