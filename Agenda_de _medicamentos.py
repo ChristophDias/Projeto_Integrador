@@ -40,7 +40,7 @@ def enviar_lembrete_email_e_interface(nome, medicamento):
     messagebox.showinfo("Lembrete", mensagem)
 
 
-
+# Adicionar Registro
 def adicionar_registro():
     nome = entry_nome.get()
     data = entry_data.get()
