@@ -62,7 +62,7 @@ Janela do aletar da medicação.
 ## Como contribuir?
 
 Esse projeto está aberto para contribuições, faça um fork no repositório e abra seu PR. Entre em contato
-pelo e-mail christophpereiradias@gmail.com
+pelo e-mail christophpereiradias@gmail.com ou mfbb84@hotmail.com
 
 ## Licença
 
