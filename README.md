@@ -67,4 +67,4 @@ pelo e-mail christophpereiradias@gmail.com ou mfbb84@hotmail.com
 
 ## Licença
 
-Este projeto está sob a licença CopyLeft.
+Este projeto está sob a licença MIT.
